@@ -5,7 +5,14 @@
 
 I am a Full Front End Mobile App Developer with a Diploma in engineering Computer technology. I have experience testing mobile Apps, developing test cases, detecting bugs, tracking, and communicating test results while resolving issues with test management tools. Analytical problem-solver offering decision-making and time management skills.
 
-Skills: HTML / CSS / JAVA / C / DART / ANDROID / FLUTTER
+Skills: 
+✔✔ HTML
+✔✔ CSS
+✔✔ JAVA
+✔✔ C
+✔✔ DART
+✔✔ ANDROID
+✔✔FLUTTER
 
 - 🌱 I’m currently learning flutter 
 - 👯 I’m looking to collaborate on gitHub 
