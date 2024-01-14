@@ -27,11 +27,3 @@ Skills:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raselhossen125)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raselhossen125&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raselhossen125)  
-
-![GitHub metrics](https://metrics.lecoq.io/raselhossen125)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raselhossen125)  
-
-![Profile views](https://gpvc.arturio.dev/raselhossen125)
