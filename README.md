@@ -34,4 +34,4 @@ Skills:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raselhossen125)  
 
-![Profile views](https://gpvc.arturio.dev/raselhossen125)  
+![Profile views]
